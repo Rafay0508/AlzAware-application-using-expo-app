@@ -1,3 +1,4 @@
+<img src="https://github.com/Rafay0508/AlzAware-application/assets/106449952/28997867-5dce-4dbe-bcb8-7a8e0ed8a030" alt="Main Look" width="400">
 ![main look](https://github.com/Rafay0508/AlzAware-application/assets/106449952/28997867-5dce-4dbe-bcb8-7a8e0ed8a030){:height="300px" width="500px"}
 ![sigup](https://github.com/Rafay0508/AlzAware-application/assets/106449952/f4862f46-edae-4096-a27e-65387892fec5){:height="300px" width="500px"}
 ![login](https://github.com/Rafay0508/AlzAware-application/assets/106449952/46b4f0cd-6571-4959-b162-1eed17f4faa1){:height="300px" width="500px"}
