@@ -1,9 +1,5 @@
-![sigup_80](https://github.com/Rafay0508/AlzAware-application/assets/106449952/259fe4d3-5f81-43bf-9de2-cb1564d25661)
 
 ![main look](https://github.com/Rafay0508/AlzAware-application/assets/106449952/28997867-5dce-4dbe-bcb8-7a8e0ed8a030)
-![sigup](https://github.com/Rafay0508/AlzAware-application/assets/106449952/f4862f46-edae-4096-a27e-65387892fec5)
-![login](https://github.com/Rafay0508/AlzAware-application/assets/106449952/46b4f0cd-6571-4959-b162-1eed17f4faa1)
-
 
 # EarlyDetection Alzheimer's Disease App
 
@@ -36,3 +32,12 @@ We welcome contributions from developers, researchers, and healthcare profession
 This project is licensed under the [MIT License](LICENSE).
 
 Thank you for your interest in the EarlyDetection Alzheimer's Disease App. Let's work together to build a brighter future for those affected by this devastating condition.
+
+
+
+![sigup](https://github.com/Rafay0508/AlzAware-application/assets/106449952/f4862f46-edae-4096-a27e-65387892fec5)
+![login](https://github.com/Rafay0508/AlzAware-application/assets/106449952/46b4f0cd-6571-4959-b162-1eed17f4faa1)
+
+![predictno page](https://github.com/Rafay0508/AlzAware-application/assets/106449952/aaedffba-37d9-4981-ac2b-a660e115238c)
+![generate report](https://github.com/Rafay0508/AlzAware-application/assets/106449952/11108870-fadf-49ff-b249-70b042476896)
+![community support](https://github.com/Rafay0508/AlzAware-application/assets/106449952/1aac680c-59cf-46f3-9262-92871a193cd7)
