@@ -20,7 +20,7 @@ To get started with the app, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Set up the backend server either locally or using ngrok by following the instructions provided in the [Backend Repo](link-to-backend-repo).
-3. Install the necessary dependencies.
+3. Install the necessary dependencies. use "npm install"
 4. Run the app on your device or emulator.
 
 ## Contributing
