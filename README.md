@@ -1,3 +1,5 @@
+![main look](https://github.com/Rafay0508/AlzAware-application/assets/106449952/28997867-5dce-4dbe-bcb8-7a8e0ed8a030)
+
 # EarlyDetection Alzheimer's Disease App
 
 Welcome to the EarlyDetection Alzheimer's Disease App GitHub repository!
