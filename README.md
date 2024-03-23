@@ -12,14 +12,14 @@ This repository contains the source code and documentation for an innovative mob
 - **Data Collection:** The app collects various types of data, including cognitive test results, lifestyle factors, and health history, to build comprehensive user profiles.
 - **Machine Learning Algorithms:** Advanced machine learning models analyze the collected data to identify potential biomarkers and early signs of Alzheimer's disease.
 - **User-Friendly Interface:** The app features an intuitive and user-friendly interface, making it accessible to both healthcare professionals and individuals concerned about their cognitive health.
-- **Local Model Api:** Please note that the Model Api is not hosted live; it runs locally or using ngrok for development and testing purposes. The backend code is available in a separate repository ([Backend Repo](AlzAware-backend-netlifyHosted)).
+- **Local Model Api:** Please note that the Model Api is not hosted live; it runs locally or using ngrok for development and testing purposes. The backend code is available in a separate repository ([Backend Repo](https://github.com/Rafay0508/AlzAware-application-api)).
 
 ## Getting Started
 
 To get started with the app, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Set up the backend server either locally or using ngrok by following the instructions provided in the [Backend Repo](link-to-backend-repo).
+2. Set up the backend server either locally or using ngrok by following the instructions provided in the [Backend Repo](https://github.com/Rafay0508/AlzAware-application-api).
 3. Install the necessary dependencies. use "npm install"
 4. Run the app on your device or emulator.
 
