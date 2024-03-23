@@ -12,7 +12,7 @@ This repository contains the source code and documentation for an innovative mob
 - **Data Collection:** The app collects various types of data, including cognitive test results, lifestyle factors, and health history, to build comprehensive user profiles.
 - **Machine Learning Algorithms:** Advanced machine learning models analyze the collected data to identify potential biomarkers and early signs of Alzheimer's disease.
 - **User-Friendly Interface:** The app features an intuitive and user-friendly interface, making it accessible to both healthcare professionals and individuals concerned about their cognitive health.
-- **Local Backend:** Please note that the backend is not hosted live; it runs locally or using ngrok for development and testing purposes. The backend code is available in a separate repository ([Backend Repo](link-to-backend-repo)).
+- **Local Model Api:** Please note that the Model Api is not hosted live; it runs locally or using ngrok for development and testing purposes. The backend code is available in a separate repository ([Backend Repo](AlzAware-backend-netlifyHosted)).
 
 ## Getting Started
 
